@@ -32,4 +32,4 @@ voilà la commande: npx hardhat insert hash jwt
 
 Pour la verification:
 etherscan m'affique un probleme avec le network et j'ai pas trouvé comment lui dire que c'est le network local 
-npx hardhat verify
+npx hardhat verify-private hash-recherché
