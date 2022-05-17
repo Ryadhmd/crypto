@@ -13,7 +13,7 @@ la compilation du contrat se fait via la commande:
 npx hardhat compile
 
 le lancement de la blockchain avec:
-np hardhat node
+npx hardhat node
 
 ça va crée 10 nodes 
 
